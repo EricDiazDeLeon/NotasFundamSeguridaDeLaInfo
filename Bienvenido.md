@@ -1,1 +1,0 @@
-Notas de retos de fundamentos de la seguridad de la información.

@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
+                "file": "PicoCTF/plumbing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
+              "title": "plumbing"
             }
           }
         ],
@@ -230,9 +230,18 @@
   },
   "active": "0f014d1e7bbb7a9e",
   "lastOpenFiles": [
+    "PicoCTF/what's a net cat.md",
+    "PicoCTF/plumbing.md",
+    "PicoCTF/Warmed Up.md",
+    "PicoCTF/Obedient Cat.md",
+    "PicoCTF/Nice netcat.md",
     "PicoCTF/Lets warm out.md",
-    "Bienvenido.md",
+    "PicoCTF/Glitch Cat.md",
+    "PicoCTF/First Grep.md",
+    "PicoCTF/Bases.md",
+    "PicoCTF/2Warm.md",
     "Plantilla.md",
+    "Bienvenido.md",
     "PicoCTF",
     "Sin título.md"
   ]
