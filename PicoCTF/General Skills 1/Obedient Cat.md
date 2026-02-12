@@ -4,7 +4,7 @@ This file has a flag in plain sight (aka "in-the-clear").
 ```bash
 ali@KaliEND:~/Downloads/PicoCTF/parte3$ wget https://mercury.picoctf.net/static/217686fc11d733b80be62dcfcfca6  
 c75/flag  
---2026-01-08 14:19:53--  https://mercury.picoctf.net/static/217686fc11d733b80be62dcfcfca6c75/flag  
+--2026-02-08 14:19:53--  https://mercury.picoctf.net/static/217686fc11d733b80be62dcfcfca6c75/flag  
 Resolving mercury.picoctf.net (mercury.picoctf.net)... 18.189.209.142  
 Connecting to mercury.picoctf.net (mercury.picoctf.net)|18.189.209.142|:443... connected.  
 HTTP request sent, awaiting response... 200 OK  
@@ -13,7 +13,7 @@ Saving to: ‘flag’
   
 flag                        100%[=========================================>]      34  --.-KB/s    in 0s         
   
-2026-01-08 14:19:54 (17.2 MB/s) - ‘flag’ saved [34/34]  
+2026-02-08 14:19:54 (17.2 MB/s) - ‘flag’ saved [34/34]  
   
 kali@KaliEND:~/Downloads/PicoCTF/parte3$ ls  
 file  flag  

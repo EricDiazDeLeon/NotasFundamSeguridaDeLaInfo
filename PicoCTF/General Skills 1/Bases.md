@@ -8,7 +8,7 @@ PicoCTF{l3arn_th3_r0p35}
 ```
 
 ## Notas Adicionales 
-La página de cyberChef nos ayuda a descodificar cadenas
+La página de cyberChef nos ayuda a descodificar cadenas en base 64
 
 ### Referencias
 
