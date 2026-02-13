@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/General Skills 2/Wave a flag.md",
+                "file": "PicoCTF/General Skills 3/Serpentine.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wave a flag"
+              "title": "Serpentine"
             }
           }
         ]
@@ -185,6 +185,22 @@
   },
   "active": "648438e243920616",
   "lastOpenFiles": [
+    "Plantilla.md",
+    "README.md",
+    "PicoCTF/General Skills 3/Serpentine.md",
+    "PicoCTF/General Skills 1/First Grep.md",
+    "PicoCTF/General Skills 1/Bases.md",
+    "PicoCTF/General Skills 3/fixme1.py.md",
+    "PicoCTF/General Skills 3/Super SSH.md",
+    "PicoCTF/General Skills 3/runme.py.md",
+    "PicoCTF/General Skills 3/PW Crack 3.md",
+    "PicoCTF/General Skills 3/PW Crack 2.md",
+    "PicoCTF/General Skills 3/PW Crack 1.md",
+    "PicoCTF/General Skills 3/fixme2.py.md",
+    "PicoCTF/General Skills 3/convertme.py.md",
+    "PicoCTF/General Skills 3/Codebook.md",
+    "PicoCTF/General Skills 2/Wave a flag.md",
+    "PicoCTF/General Skills 3",
     "PicoCTF/General Skills 2/Tab, Tab, Attack.md",
     "PicoCTF/General Skills 2/strings it.md",
     "PicoCTF/General Skills 2/Static ain't always noise.md",
@@ -196,21 +212,6 @@
     "PicoCTF/General Skills 1/Warmed Up.md",
     "PicoCTF/General Skills 1/plumbing.md",
     "PicoCTF/General Skills 1/Obedient Cat.md",
-    "PicoCTF/General Skills 1/Nice netcat.md",
-    "PicoCTF/General Skills 1/Lets warm out.md",
-    "PicoCTF/General Skills 1/Glitch Cat.md",
-    "PicoCTF/General Skills 1/First Grep.md",
-    "PicoCTF/General Skills 1/Bases.md",
-    "PicoCTF/General Skills 1/2Warm.md",
-    "PicoCTF/General Skills 2/Big Zip.md",
-    "PicoCTF/General Skills 2/Wave a flag.md",
-    "PicoCTF/Glitch Cat.md",
-    "PicoCTF/what's a net cat.md",
-    "PicoCTF/Obedient Cat.md",
-    "PicoCTF/First Grep.md",
-    "PicoCTF/Bases.md",
-    "PicoCTF/2Warm.md",
-    "README.md",
     "PicoCTF"
   ]
 }
