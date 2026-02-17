@@ -38,6 +38,7 @@ Por ejemplo:
 `((cat blargh))`
 
 descubrí que sí funcionaba la redirección de entrada <`
-por lo que usé ((cat)) `<blargh/flag.txt` para obtener la bandera.
+por lo que usé ((cat)) de modo que pude usar el comando:
+`<blargh/flag.txt` para obtener la bandera.
 `picoCTF{5p311ch3ck_15_7h3_w0r57_a60bdf40}`
 ### Referencias

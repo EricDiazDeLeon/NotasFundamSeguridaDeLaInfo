@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/General Skills 3/Special.md",
+                "file": "PicoCTF/General Skills 1/Special.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,10 +183,10 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "648438e243920616",
+  "active": "2b075dc5d294df64",
   "lastOpenFiles": [
     "Plantilla.md",
-    "PicoCTF/General Skills 3/Special.md",
+    "PicoCTF/General Skills 1/Special.md",
     "PicoCTF/General Skills 3/Serpentine.md",
     "PicoCTF/General Skills 3/PW Crack 3.md",
     "PicoCTF/General Skills 3/PW Crack 2.md",
