@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/General Skills/Blame Game.md",
+                "file": "PicoCTF/Web 1/where are the robots.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blame Game"
+              "title": "where are the robots"
             }
           }
         ]
@@ -185,13 +185,20 @@
   },
   "active": "530d1d02dd1d17a7",
   "lastOpenFiles": [
+    "PicoCTF/Web 1/picobrowser.md",
+    "PicoCTF/Web 1/logon.md",
+    "PicoCTF/Web 1/Insp3ct0r.md",
+    "PicoCTF/Web 1/dont-use-client-side.md",
+    "PicoCTF/Web 1/Client-side-again.md",
+    "PicoCTF/General Skills/Blame Game.md",
+    "PicoCTF/Web 1/where are the robots.md",
+    "PicoCTF/Web 1",
     "PicoCTF/General Skills/Special.md",
     "PicoCTF/General Skills 1/ASCII Numbers.md",
     "PicoCTF/General Skills/ASCII Numbers.md",
     "PicoCTF/General Skills/binhexa.md",
     "PicoCTF/General Skills/Binary Search.md",
     "PicoCTF/General Skills/Collaborative Development.md",
-    "PicoCTF/General Skills/Blame Game.md",
     "PicoCTF/General Skills/Time Machine.md",
     "PicoCTF/General Skills/Committe issues.md",
     "PicoCTF/General Skills/chrono.md",
@@ -207,12 +214,6 @@
     "PicoCTF/General Skills 1/Committe issues.md",
     "PicoCTF/General Skills 1/Time Machine.md",
     "PicoCTF/General Skills 1/Special.md",
-    "Plantilla.md",
-    "PicoCTF/General Skills 3/Serpentine.md",
-    "PicoCTF/General Skills 3/PW Crack 3.md",
-    "PicoCTF/General Skills 3/PW Crack 2.md",
-    "PicoCTF/General Skills 3/PW Crack 1.md",
-    "PicoCTF/General Skills 3/Codebook.md",
     "PicoCTF/General Skills 3",
     "PicoCTF"
   ]
