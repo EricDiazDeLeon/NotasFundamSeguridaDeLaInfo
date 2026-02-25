@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Web 1/where are the robots.md",
+                "file": "PicoCTF/Web 2/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "where are the robots"
+              "title": "Scavenger Hunt"
             }
           }
         ]
@@ -185,13 +185,19 @@
   },
   "active": "530d1d02dd1d17a7",
   "lastOpenFiles": [
+    "PicoCTF/Web 2/GET aHEAD.md",
+    "PicoCTF/Web 2/Scavenger Hunt.md",
+    "PicoCTF/Web 2/Cookies.md",
+    "Plantilla.md",
+    "PicoCTF/Web 2",
+    "PicoCTF/Sin título.md",
+    "PicoCTF/Web 1/where are the robots.md",
     "PicoCTF/Web 1/picobrowser.md",
     "PicoCTF/Web 1/logon.md",
     "PicoCTF/Web 1/Insp3ct0r.md",
     "PicoCTF/Web 1/dont-use-client-side.md",
     "PicoCTF/Web 1/Client-side-again.md",
     "PicoCTF/General Skills/Blame Game.md",
-    "PicoCTF/Web 1/where are the robots.md",
     "PicoCTF/Web 1",
     "PicoCTF/General Skills/Special.md",
     "PicoCTF/General Skills 1/ASCII Numbers.md",
@@ -209,11 +215,6 @@
     "PicoCTF/General Skills 1/Binary Search.md",
     "PicoCTF/General Skills 1/Collaborative Development.md",
     "PicoCTF/General Skills 1/Blame Game.md",
-    "PicoCTF/General Skills 1/chrono.md",
-    "PicoCTF/General Skills 1/Permissions.md",
-    "PicoCTF/General Skills 1/Committe issues.md",
-    "PicoCTF/General Skills 1/Time Machine.md",
-    "PicoCTF/General Skills 1/Special.md",
     "PicoCTF/General Skills 3",
     "PicoCTF"
   ]
