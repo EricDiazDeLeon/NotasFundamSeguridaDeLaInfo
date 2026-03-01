@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Web 2/Scavenger Hunt.md",
+                "file": "PicoCTF/Web 3/JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scavenger Hunt"
+              "title": "JaWT Scratchpad"
             }
           }
         ]
@@ -185,8 +185,12 @@
   },
   "active": "530d1d02dd1d17a7",
   "lastOpenFiles": [
-    "PicoCTF/Web 2/GET aHEAD.md",
+    "PicoCTF/Web 3/More SQLi.md",
+    "PicoCTF/Web 3/JaWT Scratchpad.md",
+    "PicoCTF/Web 3/Irish-Name-Repo 1.md",
     "PicoCTF/Web 2/Scavenger Hunt.md",
+    "PicoCTF/Web 3",
+    "PicoCTF/Web 2/GET aHEAD.md",
     "PicoCTF/Web 2/Cookies.md",
     "Plantilla.md",
     "PicoCTF/Web 2",
@@ -212,9 +216,6 @@
     "PicoCTF/General Skills",
     "PicoCTF/Nueva carpeta",
     "PicoCTF/General Skills 1/binhexa.md",
-    "PicoCTF/General Skills 1/Binary Search.md",
-    "PicoCTF/General Skills 1/Collaborative Development.md",
-    "PicoCTF/General Skills 1/Blame Game.md",
     "PicoCTF/General Skills 3",
     "PicoCTF"
   ]
