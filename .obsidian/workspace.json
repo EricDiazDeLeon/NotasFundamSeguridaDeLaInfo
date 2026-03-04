@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "JaWT Scratchpad"
             }
+          },
+          {
+            "id": "87781c8cf91eeedb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PicoCTF/Web 4/Trickster.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Trickster"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,8 +198,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "530d1d02dd1d17a7",
+  "active": "87781c8cf91eeedb",
   "lastOpenFiles": [
+    "PicoCTF/Web 4/SOAP.md",
+    "PicoCTF/Web 4/Most Cookies.md",
+    "PicoCTF/Web 4/MatchTheRegex.md",
+    "PicoCTF/Web 4/Trickster.md",
+    "PicoCTF/Web 4",
     "PicoCTF/Web 3/More SQLi.md",
     "PicoCTF/Web 3/JaWT Scratchpad.md",
     "PicoCTF/Web 3/Irish-Name-Repo 1.md",
@@ -210,12 +230,8 @@
     "PicoCTF/General Skills/Binary Search.md",
     "PicoCTF/General Skills/Collaborative Development.md",
     "PicoCTF/General Skills/Time Machine.md",
-    "PicoCTF/General Skills/Committe issues.md",
-    "PicoCTF/General Skills/chrono.md",
-    "PicoCTF/General Skills/Permissions.md",
     "PicoCTF/General Skills",
     "PicoCTF/Nueva carpeta",
-    "PicoCTF/General Skills 1/binhexa.md",
     "PicoCTF/General Skills 3",
     "PicoCTF"
   ]
