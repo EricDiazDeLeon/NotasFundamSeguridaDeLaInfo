@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Forensic 4/St3g0.md",
+                "file": "PicoCTF/Crypto/interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "St3g0"
+              "title": "interencdec"
             }
           }
         ]
@@ -185,12 +185,21 @@
   },
   "active": "87781c8cf91eeedb",
   "lastOpenFiles": [
-    "PicoCTF/Forensic 4/Redaction gone wrong.md",
+    "Plantilla.md",
+    "PicoCTF/Crypto/interencdec.md",
+    "PicoCTF/Crypto/waves over lambda.md",
+    "PicoCTF/Crypto/Tapping.md",
+    "PicoCTF/Crypto/la cifra de.md",
+    "PicoCTF/Crypto/Easy1.md",
+    "PicoCTF/Crypto/caesar.md",
+    "PicoCTF/Crypto/The Numbers.md",
+    "PicoCTF/Crypto/13.md",
     "PicoCTF/Forensic 4/St3g0.md",
+    "PicoCTF/Crypto",
+    "PicoCTF/Forensic 4/Redaction gone wrong.md",
     "PicoCTF/Forensic 4/Secret of the Polyglot.md",
     "PicoCTF/Forensic 4/information.md",
     "PicoCTF/Forensic 4/hideme.md",
-    "Plantilla.md",
     "PicoCTF/Forensic 4/Scan Surprise.md",
     "PicoCTF/Forensic 4/RED.md",
     "PicoCTF/Forensic 4/Ph4nt0m 1ntrud3r.md",
@@ -204,22 +213,13 @@
     "PicoCTF/Forensic 3/WebNet1.md",
     "PicoCTF/Forensic 4",
     "PicoCTF/Forensic 3/WebNet0.md",
-    "PicoCTF/Forensic 3/tunn3l v1s10n.md",
-    "PicoCTF/Forensic 3/Matryoshka doll.md",
-    "PicoCTF/Forensic 3/MacroHard WeakEdge.md",
-    "PicoCTF/Web 1/findme.md",
     "PicoCTF/Forensic 3",
-    "PicoCTF/Web 1/SSTI2.md",
-    "PicoCTF/Web 1/SSTI1.md",
-    "PicoCTF/Web 1/head-dump.md",
-    "PicoCTF/General Skills/flag_shop.md",
     "PicoCTF/Forensic 2",
     "PicoCTF/Forensic 1",
     "PicoCTF/Web 4",
     "PicoCTF/Web 3",
     "PicoCTF/Web 2",
     "PicoCTF/Web 1",
-    "PicoCTF/General Skills",
-    "PicoCTF/Nueva carpeta"
+    "PicoCTF/General Skills"
   ]
 }
