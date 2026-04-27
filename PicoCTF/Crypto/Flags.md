@@ -4,7 +4,7 @@ What do the [flags](https://jupiter.challenges.picoctf.org/static/fbeb5f9040d62
 ```bash
 kali@KaliEND:~/Downloads/PicoCTF/Exam3erParcial/flags$ wget https://jupiter.challenges.picoctf.org/static/fbeb5f9040d62b18878d199c  
 dda2d253/flag.png  
---2026-04-22 17:30:52--  https://jupiter.challenges.picoctf.org/static/fbeb5f9040d62b18878d199cdda2d253/flag.png  
+--2026-04-21 17:30:52--  https://jupiter.challenges.picoctf.org/static/fbeb5f9040d62b18878d199cdda2d253/flag.png  
 Resolviendo jupiter.challenges.picoctf.org (jupiter.challenges.picoctf.org)... 3.131.60.8  
 Conectando con jupiter.challenges.picoctf.org (jupiter.challenges.picoctf.org)[3.131.60.8]:443... conectado.  
 Petición HTTP enviada, esperando respuesta... 200 OK  
@@ -13,7 +13,7 @@ Grabando a: «flag.png»
   
 flag.png                         100%[========================================================>]  42,24K  --.-KB/s    en 0s         
   
-2026-04-22 17:30:52 (86,4 MB/s) - «flag.png» guardado [43257/43257]  
+2026-04-21 17:30:52 (86,4 MB/s) - «flag.png» guardado [43257/43257]  
   
 kali@KaliEND:~/Downloads/PicoCTF/Exam3erParcial/flags$ ls  
 flag.png  
