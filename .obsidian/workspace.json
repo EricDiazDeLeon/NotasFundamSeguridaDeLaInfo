@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Crypto/morse-code.md",
+                "file": "PicoCTF/Reversing/asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "morse-code"
+              "title": "asm3"
             }
           }
         ]
@@ -185,8 +185,16 @@
   },
   "active": "87781c8cf91eeedb",
   "lastOpenFiles": [
-    "Plantilla.md",
+    "PicoCTF/Reversing/asm2.md",
+    "PicoCTF/Reversing/asm3.md",
+    "PicoCTF/Reversing/asm1.md",
+    "PicoCTF/Reversing/Safe Opener 2.md",
+    "PicoCTF/Reversing/Picker II.md",
+    "PicoCTF/Reversing/Picker III.md",
+    "PicoCTF/Reversing/timer.md",
     "PicoCTF/Crypto/morse-code.md",
+    "PicoCTF/Reversing",
+    "Plantilla.md",
     "PicoCTF/Crypto/credstuff.md",
     "PicoCTF/Crypto/Crack the Power.md",
     "PicoCTF/Crypto/hashcrack.md",
@@ -204,13 +212,6 @@
     "PicoCTF/Crypto/la cifra de.md",
     "PicoCTF/Crypto/b00tl3gRSA3.md",
     "PicoCTF/Crypto/Mind your Ps and Qs.md",
-    "PicoCTF/Crypto/b00tl3gRSA2.md",
-    "PicoCTF/Crypto/Mini RSA.md",
-    "PicoCTF/Crypto/interencdec.md",
-    "PicoCTF/Crypto/waves over lambda.md",
-    "PicoCTF/Crypto/Tapping.md",
-    "PicoCTF/Crypto/Easy1.md",
-    "PicoCTF/Crypto/caesar.md",
     "PicoCTF/Crypto",
     "PicoCTF/Forensic 4",
     "PicoCTF/Forensic 3",
@@ -219,7 +220,6 @@
     "PicoCTF/Web 4",
     "PicoCTF/Web 3",
     "PicoCTF/Web 2",
-    "PicoCTF/Web 1",
-    "PicoCTF/General Skills"
+    "PicoCTF/Web 1"
   ]
 }
